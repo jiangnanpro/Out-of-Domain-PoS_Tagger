@@ -1,0 +1,2 @@
+bin/lmplz -o 3 --verbose_header --text /home/jiangnan/Desktop/IntroML/ML_Projet/PoS_Classifier/train_sentence/train_set_ftb_sentence.txt --arpa /home/jiangnan/Desktop/IntroML/ML_Projet/PoS_Classifier/train_set_ftb_sentence.arpa
+
