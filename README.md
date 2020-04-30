@@ -1,6 +1,6 @@
 # Part-of-Speech Tagger
 
-In this work we provide 3 different PoS_taggers: **Perceptron**, **Hidden Markov model** and **Decision Tree** based on the French treebanks of the corpora of the *Universal Dependencies* project.
+In this work we provide 3 different PoS_taggers: **Perceptron**, **Hidden Markov model** and **Decision Tree**, trained and evaluated on the French treebanks of the corpora of the *Universal Dependencies* project.
 
 - Perceptron is designed and implemented by ourselves.
 - Hidden Markov model is built by using Pomegranate library.
