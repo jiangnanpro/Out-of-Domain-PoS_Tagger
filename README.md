@@ -12,4 +12,4 @@ In corpus linguistics, a Part-of-Speech (PoS) is a category of words which have 
 
 PoS tagging is a relatively easy task: as long as there are enough training data of the same domain, a simple multi-class classifier with very simple features achieve human-comparable performance. However, PoS taggers performance degrades significantly when they are applied to sentences that depart from training data. In this work, We aim to evaluate and characterize the impact of changes in domain and develop the features and models that makes our PoS taggers robust to the different combination of train and test sets.
 
-For details, click HERE.
+For details, click [HERE](http://www.google.com/).
