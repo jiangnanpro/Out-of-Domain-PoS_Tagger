@@ -1,6 +1,6 @@
 # Part-o-Speech Tagger
 
-In this work we provide 3 PoS_taggers: **Perceptron**, **HMM**, **Decision Tree** based on the French treebanks of the corpora of the $Universal Dependencies$ project.
+In this work we provide 3 different PoS_taggers: **Perceptron**, **HMM** and **Decision Tree** based on the French treebanks of the corpora of the *Universal Dependencies* project.
 
 # Backgruond
 
