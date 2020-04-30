@@ -1,4 +1,4 @@
-# Part-o-Speech Tagger
+# Part-of-Speech Tagger
 
 In this work we provide 3 different PoS_taggers: **Perceptron**, **Hidden Markov model** and **Decision Tree** based on the French treebanks of the corpora of the *Universal Dependencies* project.
 
@@ -6,7 +6,7 @@ In this work we provide 3 different PoS_taggers: **Perceptron**, **Hidden Markov
 - Hidden Markov model is built by using Pomegranate library.
 - Decision Tree is imported from sklearn library.
 
-# Backgruond
+# Background
 
 In corpus linguistics, a Part-of-Speech (PoS) is a category of words which have similar grammatical properties as nouns, verbs, adjectives, adverbs, etc. Part-of-Speech tagging, which can be considered as a multi-class classification problem, is the process of determining the syntactic category (PoS) of a word from the words in its surrounding context.
 
